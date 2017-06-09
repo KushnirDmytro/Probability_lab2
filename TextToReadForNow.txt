@@ -1,0 +1,3 @@
+# Probability_lab2
+assignment on parameter estimation
+For now execution of a task is still in progress due to preparation to Databases Exam and some other unexpected problems.
